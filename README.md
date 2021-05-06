@@ -3,7 +3,7 @@
 
 # Start With Basic<br/>
 <h2> Clone the repo and opne it in unity</h2>
-<h2> opne the sce</h2>
+<h2> opne the scenes folder and click the main scene to setup the scene.</h2>
  <hr> 
- <h1 align="center"><b> Jumping game </b> </h1> <p align="center"> </p>
+ <h1 align="center"><b> Basic game </b> </h1> 
  <br/> 
