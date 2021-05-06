@@ -1,0 +1,40 @@
+[api-updater (non-obsolete-error-filter)] 5/5/2021 2:09:12 PM : Starting C:/Users/SHARMA/Documents/unity/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 7675.5089ms
+moved types parse time: 556ms
+candidates parse time : 3ms
+C# parse time         : 3587ms
+candidates check time : 237ms
+console write time    : 13ms
+
+[api-updater (non-obsolete-error-filter)] 5/5/2021 2:33:11 PM : Starting C:/Users/SHARMA/Documents/unity/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1466.8839ms
+moved types parse time: 452ms
+candidates parse time : 6ms
+C# parse time         : 1356ms
+candidates check time : 156ms
+console write time    : 14ms
+
+[api-updater (non-obsolete-error-filter)] 5/5/2021 2:33:52 PM : Starting C:/Users/SHARMA/Documents/unity/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 296.8731ms
+moved types parse time: 141ms
+candidates parse time : 4ms
+C# parse time         : 753ms
+candidates check time : 245ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 5/5/2021 2:34:26 PM : Starting C:/Users/SHARMA/Documents/unity/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 171.8653ms
+moved types parse time: 159ms
+candidates parse time : 3ms
+C# parse time         : 596ms
+candidates check time : 129ms
+console write time    : 1ms
+
