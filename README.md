@@ -1,4 +1,4 @@
-# Snakegame
+# Snakxgame
  <p align="center"> <img src="https://res.cloudinary.com/xortrrtrrtrt/image/upload/v1620291138/Frame_1_1_x3zzsp.png"  align="center"/>  </p>
 
 # Start With Basic<br/>
